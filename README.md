@@ -31,7 +31,7 @@
 - Python, Leadership, Startup Ideas, MVP building
 
 ### 📫 Reach Me At:
-- ✉️ **Email:** iamrealzippo@gmail.com  
+- ✉️ **Email:** zippo77.contact@gmail.com  
 - 🔗 **LinkedIn:** [bulbul-hassan](https://www.linkedin.com/in/bulbul-hassan-896705323/)  
 - 🎥 **YouTube:** [@Zippstudy](https://www.youtube.com/@Zippstudy)
 
