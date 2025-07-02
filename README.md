@@ -19,7 +19,7 @@
 - 🗣️ **Z Chat** – AI-powered chatbot  
 - 📘 **ZIPPSTUDY** – EdTech platform to empower students
 
-### 🤝 Looking To Collaborate On:
+### 🤝 Looking To Collaborate On :
 - 🔬 AI/ML-based real-world projects  
 - 💻 Web apps that solve real problems
 
