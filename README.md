@@ -3,7 +3,7 @@
   
 <p align="center">I love building meaningful tech products, exploring AI, and creating tools that solve real problems. Currently learning full-stack development and machine learning while growing my own brand – ZIPPTECH.</p>
  
----  
+---   
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
