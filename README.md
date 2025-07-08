@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZiPPO AKA Bulbul</h1>
 <h3 align="center">🚀 Founder of ZIPPTECH | Self-Taught Developer | AI/ML Enthusiast from Assam 🇮🇳</h3>
-
+ 
 <p align="center">I love building meaningful tech products, exploring AI, and creating tools that solve real problems. Currently learning full-stack development and machine learning while growing my own brand – ZIPPTECH.</p>
  
 ---
